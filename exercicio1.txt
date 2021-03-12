@@ -1,6 +1,7 @@
-BEJ.GG melhor grupo
+﻿BEJ.GG melhor grupo
 <<<<<<< HEAD
 PROF.ALEXANDRE aqui!
+Gabriel Dantas
 =======
 atualização das 12:33
 >>>>>>> c1eb3c552bca13df9ffde4968e30c31675f16179
